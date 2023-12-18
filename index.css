@@ -1,0 +1,96 @@
+
+.main-card{
+    width:300px;
+    height: 400px;
+    background-color: darkgrey;
+    margin-left: 500px;
+    margin-top: 180px;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 5px 5px rgb(214, 238, 237);
+
+}
+.card1{
+    width:300px;
+    height: 50%;
+    background-color: cadetblue;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+   
+
+}
+.person{
+    width: 200px;
+    height: 200px;
+    
+   
+}
+.circle{
+    position: absolute;
+    top: 180px;
+    left: 220px;
+}
+.card2{
+    display: flex;
+    flex-direction: column;
+}
+.name-heading{
+    font-size: 24px;
+    color: rgb(50, 49, 49);
+    text-align: center;
+    margin-top: 30px;
+}
+.icon1{
+    display: flex;
+    
+}
+.heart{
+    margin-left: 22px;
+    margin-top: 18px;
+}
+.icon-para{
+    font-size: 16px;
+    padding-top: 0px;
+    margin-left: 12px;
+}
+.location{
+    margin-top: 18px;
+    margin-left: 20px;
+}
+.icon-para2{
+    margin-left: 5px;
+    
+}
+.card-container{
+    display: flex;
+    margin-top: 10px;
+}
+.card3{
+    border: 1px solid whitesmoke;
+    width: 120px;
+    height: 65px;
+ 
+}
+.card4{
+    border: 1px solid whitesmoke;
+    width: 120px;
+    height: 65px;
+   
+}
+.card5{
+    border: 1px solid whitesmoke;
+    width: 120px;
+    height: 65px;
+   
+}
+.number{
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 15px;
+    margin-top: 5px;
+    color: rgb(36, 35, 35);
+}
+.followers{
+    font-size: 14px;
+    color: rgb(68, 66, 66);
+}
